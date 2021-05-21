@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/duck-money-r-web/static/css/main.2a9635a5.chunk.css",
+    "main.js": "/duck-money-r-web/static/js/main.3c162efc.chunk.js",
+    "main.js.map": "/duck-money-r-web/static/js/main.3c162efc.chunk.js.map",
+    "runtime-main.js": "/duck-money-r-web/static/js/runtime-main.51c91a91.js",
+    "runtime-main.js.map": "/duck-money-r-web/static/js/runtime-main.51c91a91.js.map",
+    "static/js/2.2efce01c.chunk.js": "/duck-money-r-web/static/js/2.2efce01c.chunk.js",
+    "static/js/2.2efce01c.chunk.js.map": "/duck-money-r-web/static/js/2.2efce01c.chunk.js.map",
+    "static/js/3.d9b23d4f.chunk.js": "/duck-money-r-web/static/js/3.d9b23d4f.chunk.js",
+    "static/js/3.d9b23d4f.chunk.js.map": "/duck-money-r-web/static/js/3.d9b23d4f.chunk.js.map",
+    "index.html": "/duck-money-r-web/index.html",
+    "static/css/main.2a9635a5.chunk.css.map": "/duck-money-r-web/static/css/main.2a9635a5.chunk.css.map",
+    "static/js/2.2efce01c.chunk.js.LICENSE.txt": "/duck-money-r-web/static/js/2.2efce01c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51c91a91.js",
+    "static/js/2.2efce01c.chunk.js",
+    "static/css/main.2a9635a5.chunk.css",
+    "static/js/main.3c162efc.chunk.js"
+  ]
+}
